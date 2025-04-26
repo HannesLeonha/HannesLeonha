@@ -14,6 +14,8 @@
     <td><img width="25px" height="25px" src="https://raw.githubusercontent.com/HannesLeonha/HannesLeonha/refs/heads/main/assets/svg/csharp.svg">&nbsp;&nbsp;C#</td>
     <td><img width="25px" height="25px" src="https://raw.githubusercontent.com/HannesLeonha/HannesLeonha/refs/heads/main/assets/svg/java.svg">&nbsp;&nbsp;Java</td>
     <td><img width="25px" height="25px" src="https://raw.githubusercontent.com/HannesLeonha/HannesLeonha/refs/heads/main/assets/svg/kotlin.svg">&nbsp;&nbsp;Kotlin</td>
+  </tr>
+  <tr>
     <td><img width="25px" height="25px" src="https://raw.githubusercontent.com/HannesLeonha/HannesLeonha/refs/heads/main/assets/svg/python.svg">&nbsp;&nbsp;Python</td>
     <td><img width="25px" height="25px" src="https://raw.githubusercontent.com/HannesLeonha/HannesLeonha/refs/heads/main/assets/svg/html5.svg">&nbsp;&nbsp;HTML5</td>
     <td><img width="25px" height="25px" src="https://raw.githubusercontent.com/HannesLeonha/HannesLeonha/refs/heads/main/assets/svg/css3.svg">&nbsp;&nbsp;CSS3</td>
@@ -24,6 +26,8 @@
     <td><img width="25px" height="25px" src="https://raw.githubusercontent.com/HannesLeonha/HannesLeonha/refs/heads/main/assets/svg/react.svg">&nbsp;&nbsp;React</td>
     <td><img width="25px" height="25px" src="https://raw.githubusercontent.com/HannesLeonha/HannesLeonha/refs/heads/main/assets/svg/threejs.svg">&nbsp;&nbsp;THREE.js</td>
     <td><img width="25px" height="25px" src="https://raw.githubusercontent.com/HannesLeonha/HannesLeonha/refs/heads/main/assets/svg/jetbrains.svg">&nbsp;&nbsp;Jetbrains IDE's</td>
+  </tr>
+  <tr>
     <td><img width="25px" height="25px" src="https://raw.githubusercontent.com/HannesLeonha/HannesLeonha/refs/heads/main/assets/svg/godot.svg">&nbsp;&nbsp;Godot</td>
     <td><img width="25px" height="25px" src="https://raw.githubusercontent.com/HannesLeonha/HannesLeonha/refs/heads/main/assets/svg/unity.svg">&nbsp;&nbsp;Unity</td>
     <td><img width="25px" height="25px" src="https://raw.githubusercontent.com/HannesLeonha/HannesLeonha/refs/heads/main/assets/svg/git.svg">&nbsp;&nbsp;Git</td>
