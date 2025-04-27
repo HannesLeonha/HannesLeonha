@@ -57,21 +57,21 @@
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=HannesLeonha&show_icons=true&theme=ambient_gradient"
+      srcset="https://github-readme-stats.vercel.app/api?username=HannesLeonha&show_icons=true&theme=default"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api?username=HannesLeonha&show_icons=true"/>
   </picture>
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HannesLeonha&layout=donut&theme=github_dark"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HannesLeonha&layout=compact&theme=github_dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HannesLeonha&layout=donut&theme=ambient_gradient"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HannesLeonha&layout=compact&theme=default"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HannesLeonha&layout=donut"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HannesLeonha&layout=compact"/>
   </picture>
 </p>
 
@@ -84,7 +84,7 @@
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=HannesLeonha&repo=RetroCookieClicker&theme=ambient_gradient"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=HannesLeonha&repo=RetroCookieClicker&theme=default"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=HannesLeonha&repo=RetroCookieClicker&show_icons=true"/>
