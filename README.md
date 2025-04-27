@@ -24,14 +24,26 @@
   <tr>
     <td><img width="25px" height="25px" src="https://raw.githubusercontent.com/HannesLeonha/HannesLeonha/refs/heads/main/assets/svg/nodejs.svg">&nbsp;&nbsp;Node.js</td>
     <td><img width="25px" height="25px" src="https://raw.githubusercontent.com/HannesLeonha/HannesLeonha/refs/heads/main/assets/svg/react.svg">&nbsp;&nbsp;React</td>
-    <td><img width="25px" height="25px" src="https://raw.githubusercontent.com/HannesLeonha/HannesLeonha/refs/heads/main/assets/svg/threejs.svg">&nbsp;&nbsp;THREE.js</td>
+    <td><picture>
+      <source srcset="https://raw.githubusercontent.com/HannesLeonha/HannesLeonha/refs/heads/main/assets/svg/threejs-light.svg"
+        media="(prefers-color-scheme: dark)"/>
+      <source srcset="https://raw.githubusercontent.com/HannesLeonha/HannesLeonha/refs/heads/main/assets/svg/threejs-dark.svg"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+      <img width="25px" height="25px" src="https://raw.githubusercontent.com/HannesLeonha/HannesLeonha/refs/heads/main/assets/svg/threejs-light.svg"/>
+    </picture>&nbsp;&nbsp;THREE.js</td>
     <td><img width="25px" height="25px" src="https://raw.githubusercontent.com/HannesLeonha/HannesLeonha/refs/heads/main/assets/svg/jetbrains.svg">&nbsp;&nbsp;Jetbrains IDE's</td>
   </tr>
   <tr>
     <td><img width="25px" height="25px" src="https://raw.githubusercontent.com/HannesLeonha/HannesLeonha/refs/heads/main/assets/svg/godot.svg">&nbsp;&nbsp;Godot</td>
     <td><img width="25px" height="25px" src="https://raw.githubusercontent.com/HannesLeonha/HannesLeonha/refs/heads/main/assets/svg/unity.svg">&nbsp;&nbsp;Unity</td>
     <td><img width="25px" height="25px" src="https://raw.githubusercontent.com/HannesLeonha/HannesLeonha/refs/heads/main/assets/svg/git.svg">&nbsp;&nbsp;Git</td>
-    <td><img width="25px" height="25px" src="https://raw.githubusercontent.com/HannesLeonha/HannesLeonha/refs/heads/main/assets/svg/github.svg">&nbsp;&nbsp;GitHub</td>
+    <td><picture>
+      <source srcset="https://raw.githubusercontent.com/HannesLeonha/HannesLeonha/refs/heads/main/assets/svg/github-light.svg"
+        media="(prefers-color-scheme: dark)"/>
+      <source srcset="https://raw.githubusercontent.com/HannesLeonha/HannesLeonha/refs/heads/main/assets/svg/github-dark.svg"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+      <img width="25px" height="25px" src="https://raw.githubusercontent.com/HannesLeonha/HannesLeonha/refs/heads/main/assets/svg/github-light.svg"/>
+    </picture>&nbsp;&nbsp;GitHub</td>
   </tr>
 </table>
 
