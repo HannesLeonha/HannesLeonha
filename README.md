@@ -1,8 +1,15 @@
 <!-- Header -->
 <!-- gif will go here -->
 <h1 align="center">👋Hello, I'm Hannes Leonhartsberger</h1>
+<div align="center">
+  <img src="https://img.shields.io/badge/Discord-toastedboii-7289da?style=plastic&logo=discord&logoColor=fff&labelColor=7289da&color=424549">
+  <a href="mailto:hannes.leonhartsberger+github@sz-ybbs.ac.at"><img src="https://img.shields.io/badge/MailTo_Link-EA4335?style=plastic&logo=gmail&logoColor=fff&label=E-Mail&labelColor=EA4335&color=424549"></a>
+  <img src="https://komarev.com/ghpvc/?username=HannesLeonha&color=blue&style=plastic&abbreviated=true">
+  <img src="https://img.shields.io/github/followers/HannesLeonha?style=plastic&logo=github&label=GitHub%20Followers&color=blue">
+</div>
 
 <!-- Description -->
+
 
 <!-- Interests -->
 
