@@ -12,27 +12,26 @@
 
 
 <!-- Interests -->
-<!--
 <h2 align="center">🎨 Interests 🎨</h2>
-<div>
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=fff">
-  <img src="https://img.shields.io/badge/3D_Modeling-2d5c8b?logo=blender&logoColor=E87D0D">
-  
-</div>
+WIP
 
 <h2 align="center">🎨 Interests and hobbies outside of programming 🎨</h2>
 <table align="center">
   <tr>
-    <td><img width="25px" height="25px" src="">&nbsp;&nbsp;Linux</td>
-    <td><img width="25px" height="25px" src="">&nbsp;&nbsp;3D-Modeling</td>
-    <td><img width="25px" height="25px" src="">&nbsp;&nbsp;Piano</td>
-    <td><img width="25px" height="25px" src="">&nbsp;&nbsp;Trumpet</td>
-    <td><img width="25px" height="25px" src="">&nbsp;&nbsp;Music Producing</td>
-    <td><img width="25px" height="25px" src="">&nbsp;&nbsp;Speed Cubing</td>
-    <td><img width="25px" height="25px" src="">&nbsp;&nbsp;Gaming</td>
-    <td><img width="25px" height="25px" src="">&nbsp;&nbsp;Designing</td>
+    <td><img width="25px" height="25px" src="https://raw.githubusercontent.com/HannesLeonha/HannesLeonha/refs/heads/main/assets/svg/linux.svg">&nbsp;&nbsp;Linux</td>
+    <td><img width="25px" height="25px" src="https://raw.githubusercontent.com/HannesLeonha/HannesLeonha/refs/heads/main/assets/svg/blender.svg">&nbsp;&nbsp;3D-Modeling</td>
+    <td><img width="25px" height="25px" src="https://raw.githubusercontent.com/HannesLeonha/HannesLeonha/refs/heads/main/assets/svg/piano.svg">&nbsp;&nbsp;Piano</td>
+    <td><img width="25px" height="25px" src="https://raw.githubusercontent.com/HannesLeonha/HannesLeonha/refs/heads/main/assets/svg/trumpet.svg">&nbsp;&nbsp;Trumpet</td>
+    <td><img width="25px" height="25px" src="https://raw.githubusercontent.com/HannesLeonha/HannesLeonha/refs/heads/main/assets/svg/music.svg">&nbsp;&nbsp;Music Producing</td>
   </tr>
-</table>-->
+  <tr>
+    <td><img width="25px" height="25px" src="https://raw.githubusercontent.com/HannesLeonha/HannesLeonha/refs/heads/main/assets/svg/rubiks.svg">&nbsp;&nbsp;Speed Cubing</td>
+    <td><img width="25px" height="25px" src="https://raw.githubusercontent.com/HannesLeonha/HannesLeonha/refs/heads/main/assets/svg/steam.svg">&nbsp;&nbsp;Gaming</td>
+    <td><img width="25px" height="25px" src="https://raw.githubusercontent.com/HannesLeonha/HannesLeonha/refs/heads/main/assets/svg/brush.svg">&nbsp;&nbsp;Designing</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 <!-- Technologies -->
 <h2 align="center">🛠️ Languages and Tools I work with 🛠️</h2>
