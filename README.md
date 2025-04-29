@@ -12,6 +12,27 @@
 
 
 <!-- Interests -->
+<!--
+<h2 align="center">🎨 Interests 🎨</h2>
+<div>
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=fff">
+  <img src="https://img.shields.io/badge/3D_Modeling-2d5c8b?logo=blender&logoColor=E87D0D">
+  
+</div>
+
+<h2 align="center">🎨 Interests and hobbies outside of programming 🎨</h2>
+<table align="center">
+  <tr>
+    <td><img width="25px" height="25px" src="">&nbsp;&nbsp;Linux</td>
+    <td><img width="25px" height="25px" src="">&nbsp;&nbsp;3D-Modeling</td>
+    <td><img width="25px" height="25px" src="">&nbsp;&nbsp;Piano</td>
+    <td><img width="25px" height="25px" src="">&nbsp;&nbsp;Trumpet</td>
+    <td><img width="25px" height="25px" src="">&nbsp;&nbsp;Music Producing</td>
+    <td><img width="25px" height="25px" src="">&nbsp;&nbsp;Speed Cubing</td>
+    <td><img width="25px" height="25px" src="">&nbsp;&nbsp;Gaming</td>
+    <td><img width="25px" height="25px" src="">&nbsp;&nbsp;Designing</td>
+  </tr>
+</table>-->
 
 <!-- Technologies -->
 <h2 align="center">🛠️ Languages and Tools I work with 🛠️</h2>
