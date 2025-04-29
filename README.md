@@ -3,7 +3,7 @@
 <h1 align="center">👋 Servus, I'm Hannes Leonhartsberger</h1>
 <div align="center">
   <img src="https://img.shields.io/badge/Discord-toastedboii-7289da?style=plastic&logo=discord&logoColor=fff&labelColor=7289da&color=424549">
-  <a href="mailto:hannes.leonhartsberger+github@sz-ybbs.ac.at"><img src="https://img.shields.io/badge/MailTo_Link-EA4335?style=plastic&logo=gmail&logoColor=fff&label=E-Mail&labelColor=EA4335&color=424549"></a>
+  <a href="mailto:hannes.leonhartsberger+github@sz-ybbs.ac.at" target="_blank"><img src="https://img.shields.io/badge/MailTo_Link-EA4335?style=plastic&logo=gmail&logoColor=fff&label=E-Mail&labelColor=EA4335&color=424549"></a>
   <img src="https://komarev.com/ghpvc/?username=HannesLeonha&color=blue&style=plastic&abbreviated=true">
   <img src="https://img.shields.io/github/followers/HannesLeonha?style=plastic&logo=github&label=GitHub%20Followers&color=blue">
 </div>
@@ -36,7 +36,7 @@ Feel free to look at my projects. I try to include demo gif's so you don't have 
     <td><img width="25px" height="25px" src="https://raw.githubusercontent.com/HannesLeonha/HannesLeonha/refs/heads/main/assets/svg/rubiks.svg">&nbsp;&nbsp;Speed Cubing</td>
     <td><img width="25px" height="25px" src="https://raw.githubusercontent.com/HannesLeonha/HannesLeonha/refs/heads/main/assets/svg/steam.svg">&nbsp;&nbsp;Gaming</td>
     <td><img width="25px" height="25px" src="https://raw.githubusercontent.com/HannesLeonha/HannesLeonha/refs/heads/main/assets/svg/brush.svg">&nbsp;&nbsp;Designing</td>
-    <td><img width="25px" height="25px" src="https://raw.githubusercontent.com/HannesLeonha/HannesLeonha/refs/heads/main/assets/svg/myanimelist.svg">&nbsp;&nbsp;<a href="https://myanimelist.net/animelist/AnimekToast">Anime<a></td>
+    <td><img width="25px" height="25px" src="https://raw.githubusercontent.com/HannesLeonha/HannesLeonha/refs/heads/main/assets/svg/myanimelist.svg">&nbsp;&nbsp;<a href="https://myanimelist.net/animelist/AnimekToast" target="_blank">Anime<a></td>
     <td></td>
   </tr>
 </table>
