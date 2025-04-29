@@ -12,10 +12,7 @@
 
 
 <!-- Interests -->
-<h2 align="center">🎨 Interests 🎨</h2>
-WIP
-
-<h2 align="center">🎨 Interests and hobbies outside of programming 🎨</h2>
+<h2 align="center">🎨 Interests and Hobbies 🎨</h2>
 <table align="center">
   <tr>
     <td><img width="25px" height="25px" src="https://raw.githubusercontent.com/HannesLeonha/HannesLeonha/refs/heads/main/assets/svg/linux.svg">&nbsp;&nbsp;Linux</td>
