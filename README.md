@@ -1,6 +1,6 @@
 <!-- Header -->
 <!-- gif will go here -->
-<h1 align="center">👋Hello, I'm Hannes Leonhartsberger</h1>
+<h1 align="center">👋 Servus, I'm Hannes Leonhartsberger</h1>
 <div align="center">
   <img src="https://img.shields.io/badge/Discord-toastedboii-7289da?style=plastic&logo=discord&logoColor=fff&labelColor=7289da&color=424549">
   <a href="mailto:hannes.leonhartsberger+github@sz-ybbs.ac.at"><img src="https://img.shields.io/badge/MailTo_Link-EA4335?style=plastic&logo=gmail&logoColor=fff&label=E-Mail&labelColor=EA4335&color=424549"></a>
@@ -9,10 +9,21 @@
 </div>
 
 <!-- Description -->
+Servus, I'm Hannes Leonhartsberger.
+I am currently attending the media technology branch at the IT-HTL in Ybbs.
+I enjoy exploring interesting algorithms through code and making games.
 
+Feel free to look at my projects. I try to include demo gif's so you don't have to run them.
+
+## 💻 𝙲𝚞𝚛𝚛𝚎𝚗𝚝 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜
+ - School Project made in RPG Maker MZ
+
+## 📚 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐
+ - React.js
+ - C#
 
 <!-- Interests -->
-<h2 align="center">🎨 Interests and Hobbies 🎨</h2>
+<h2 align="center">🎨 𝙸𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚜 𝚊𝚗𝚍 𝙷𝚘𝚋𝚋𝚒𝚎𝚜 🎨</h2>
 <table align="center">
   <tr>
     <td><img width="25px" height="25px" src="https://raw.githubusercontent.com/HannesLeonha/HannesLeonha/refs/heads/main/assets/svg/linux.svg">&nbsp;&nbsp;Linux</td>
@@ -25,13 +36,13 @@
     <td><img width="25px" height="25px" src="https://raw.githubusercontent.com/HannesLeonha/HannesLeonha/refs/heads/main/assets/svg/rubiks.svg">&nbsp;&nbsp;Speed Cubing</td>
     <td><img width="25px" height="25px" src="https://raw.githubusercontent.com/HannesLeonha/HannesLeonha/refs/heads/main/assets/svg/steam.svg">&nbsp;&nbsp;Gaming</td>
     <td><img width="25px" height="25px" src="https://raw.githubusercontent.com/HannesLeonha/HannesLeonha/refs/heads/main/assets/svg/brush.svg">&nbsp;&nbsp;Designing</td>
-    <td></td>
+    <td><img width="25px" height="25px" src="https://raw.githubusercontent.com/HannesLeonha/HannesLeonha/refs/heads/main/assets/svg/myanimelist.svg">&nbsp;&nbsp;<a href="https://myanimelist.net/animelist/AnimekToast">Anime<a></td>
     <td></td>
   </tr>
 </table>
 
 <!-- Technologies -->
-<h2 align="center">🛠️ Languages and Tools I work with 🛠️</h2>
+<h2 align="center">🛠️ 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜 🛠️</h2>
 <table align="center">
   <tr>
     <td><img width="25px" height="25px" src="https://raw.githubusercontent.com/HannesLeonha/HannesLeonha/refs/heads/main/assets/svg/c.svg">&nbsp;&nbsp;C</td>
@@ -72,7 +83,7 @@
 </table>
 
 <!-- GitHub -->
-<h2 align="center">📊 GitHub Stats 📊</h2>
+<h2 align="center">📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 📊</h2>
 
 <p align="center">
   <picture>
@@ -99,7 +110,7 @@
   </picture>
 </p>
 
-<h2 align="center">My favorite projects</h2>
+<h2 align="center">⚡ 𝙼𝚢 𝚏𝚊𝚟𝚘𝚛𝚒𝚝𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 ⚡</h2>
 <p align="center">
   <a href="https://github.com/HannesLeonha/RetroCookieClicker">
     <picture>
