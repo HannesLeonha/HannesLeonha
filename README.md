@@ -16,7 +16,7 @@ I enjoy exploring interesting algorithms through code and making games.
 Feel free to look at my projects. I try to include demo gif's so you don't have to run them.
 
 ## 💻 𝙲𝚞𝚛𝚛𝚎𝚗𝚝 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜
- - School Project made in RPG Maker MZ
+ - Looking for personal projects right now
 
 ## 📚 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐
  - React.js
